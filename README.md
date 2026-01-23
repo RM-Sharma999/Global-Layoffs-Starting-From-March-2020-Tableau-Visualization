@@ -26,7 +26,7 @@ The dataset was loaded into **MySQL** and converted into a database table. A dup
 - Removed irrelevant rows and columns.
 
 # Data Analysis AND Visualization
-I Utilized SQL to perform Exploratory Data Analysis on the Layoffs Data and used the insights gathered to create some visualizations using Tableau. There were many possible visualizations using the insights gathered, but i created the following Visualizations:
+I utilized **SQL** to perform **exploratory data analysis (EDA)** on the layoffs dataset and leveraged the insights to create visualizations in **Tableau**. While there were many possible ways to visualize the data, the following key visualizations were created:
 
 # Funds Raised By Top 20 Companies
 This bubble chart Visualization displays the funds raised by the top 20 companies, with each bubble representing a company. The size of the bubbles indicates the amount of funds raised, with larger bubbles representing higher amounts. For instance, Netflix has raised the most funds, as shown by the largest bubble, followed by other companies like Meta, Uber, and WeWork. The chart effectively highlights the comparative fundraising levels among these companies.
