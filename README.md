@@ -1,7 +1,9 @@
 ![](https://i.imgur.com/qeVQYFP.png)
 
-# GLOBAL LAYOFFS (Starting From March 2020) Tableau Visualization
-I have created a dashboard with four visualizations to analyze and understand the trends and patterns of layoffs across various industries, providing valuable insights that can help professionals and companies strategize more effectively in these challenging times.
+# WORLD LAYOFFS (Starting From March 2020) Tableau Visualization
+This project analyzes **global layoffs starting from March 2020** using a dataset sourced from **Kaggle**. The goal of this project is to clean **raw real-world data**, perform **SQL-based exploratory analysis**, and build **interactive visualizations in Tableau** to uncover trends and patterns in workforce reductions across industries and countries.
+
+This project is designed to demonstrate **data cleaning, SQL querying, and business-focused analytics, making it suitable for a Data Analyst portfolio**.
 
 ### [GLOBAL LAYOFFS (Starting From March 2020) Dashboard](https://public.tableau.com/views/GlobalLayoffsStartingfromMarch2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
