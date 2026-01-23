@@ -5,7 +5,7 @@ This project analyzes **global layoffs starting from March 2020** using a datase
 
 This project showcases **end-to-end data cleaning, SQL-based analysis, and actionable insights for a Data Analyst portfolio**.
 
-### [GLOBAL LAYOFFS (Starting From March 2020) Dashboard](https://public.tableau.com/views/GlobalLayoffsStartingfromMarch2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [GLOBAL LAYOFFS Interactive Dashboard](https://public.tableau.com/views/GlobalLayoffsStartingfromMarch2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Background
 With recent layoffs across major tech companies and other industries, I became curious about the underlying causes and their broader impact. To better understand this trend, I performed exploratory data analysis on the **Global Layoffs** dataset from Kaggle. The analysis reveals that **tens of thousands of employees** have been laid off across **57 countries, 2,586 companies, and 31 industries from 2020 to 2024**, highlighting the global scale and severity of this issue.
