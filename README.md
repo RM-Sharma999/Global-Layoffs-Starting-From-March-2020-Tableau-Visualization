@@ -49,10 +49,11 @@ This pie chart Visualization shows the distribution of layoffs over five years. 
 ![](https://i.imgur.com/yMVKgWR.png)
 
 # Recommendations
-Companies facing economic challenges should explore alternatives to large-scale layoffs. This includes improving **financial forecasting**, implementing **cost-saving measures** such as temporary pay adjustments, investing in **employee development**, and adopting **flexible staffing strategies**. Fostering a culture of **innovation** and focusing on **operational efficiency** can help organizations navigate downturns while retaining talent.
+Companies facing economic challenges should explore alternatives to large-scale layoffs. This includes improving **financial forecasting**, implementing **cost-saving measures** such as temporary pay adjustments, investing in **employee development**, and adopting **flexible staffing strategies**. Fostering a culture of **innovation** and **operational efficiency** can help organizations navigate downturns while retaining talent.
 
 For employees, staying **adaptable** and continuously **upskilling** increases versatility and reduces the risk of being affected by layoffs. Maintaining **open communication** with employers, participating in **collaborative problem-solving**, and engaging in team-building or social initiatives can further support workforce stability and mitigate the need for reductions.
 
 # Conclusion
-It can be seen that there was a significant impact of global layoffs since March 2020, highlighting a total of 599,442 layoffs. Major companies like Netflix, Meta, and Uber have raised substantial funds that doesn't correlate well with number of staff laid off. The data shows that the Retail industry has been affected the most, with 70,157 layoffs, followed by Consumer and Transportation sectors. The Global Layoff Map reveals notable layoffs in countries such as Canada and the United Kingdom.\
-Additionally, there has been a significant increase in layoffs in 2023, accounting for 43.90% of the total, indicating a peak during this year and followed by a sharp decrease in layoffs in 2024 as compared to the previous year, 2023, that counts up to 12.53% of the total.
+Since March 2020, global layoffs have had a significant impact, totaling **599,442 employees**. Major companies such as **Netflix, Meta, and Uber** raised substantial funding, which does not appear to correlate with the number of staff laid off. The **Retail industry** was the most affected, with **70,157 layoffs**, followed by the **Consumer** and **Transportation** sectors. The **Global Layoff Map** highlights notable layoffs in countries including **Canada** and the **United Kingdom**.  
+
+Layoffs peaked in **2023**, accounting for **43.9% of the total**, followed by a sharp decline in **2024**, which represented **12.53% of the total layoffs**, indicating a significant recovery compared to the previous year.
