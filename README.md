@@ -1,4 +1,4 @@
-![](https://i.imgur.com/qeVQYFP.png)
+](https://github.com/RM-Sharma999/WORLD-LAYOFFS-DATA-CLEANING-AND-EDA/blob/main/Global%20Layoffs%20(Starting%20from%20March%202020).png?raw=true)
 
 # WORLD LAYOFFS (Starting From March 2020) Tableau Visualization
 This project analyzes **global layoffs starting from March 2020** using a dataset sourced from **Kaggle**. The goal of this project is to clean **raw real-world data**, perform **SQL-based exploratory data analysis**, and build **interactive dashboard in Tableau** to uncover trends and patterns in workforce reductions across industries and countries.
