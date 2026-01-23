@@ -49,10 +49,9 @@ This pie chart Visualization shows the distribution of layoffs over five years. 
 ![](https://i.imgur.com/yMVKgWR.png)
 
 # Recommendations
-Companies should look for alternative means of adjusting or responding to economic recession rather than laying off tons of their employees. companies should also enhance financial forecasting, explore alternative cost-saving measures such as temporary pay adjustments, and invest in employee development. Adopting flexible staffing strategies, fostering a culture of innovation, and operational efficiency can also help.\
-For employees, staying adaptable and continuously upgrading skills can make them more versatile and valuable, reducing the likelihood of being affected by layoffs.
+Companies facing economic challenges should explore alternatives to large-scale layoffs. This includes improving **financial forecasting**, implementing **cost-saving measures** such as temporary pay adjustments, investing in **employee development**, and adopting **flexible staffing strategies**. Fostering a culture of **innovation** and focusing on **operational efficiency** can help organizations navigate downturns while retaining talent.
 
-Open communication between employers and employees and involvement in problem-solving activities and various social outings can also support efforts to navigate financial challenges and mitigate the need for workforce reductions.
+For employees, staying **adaptable** and continuously **upskilling** increases versatility and reduces the risk of being affected by layoffs. Maintaining **open communication** with employers, participating in **collaborative problem-solving**, and engaging in team-building or social initiatives can further support workforce stability and mitigate the need for reductions.
 
 # Conclusion
 It can be seen that there was a significant impact of global layoffs since March 2020, highlighting a total of 599,442 layoffs. Major companies like Netflix, Meta, and Uber have raised substantial funds that doesn't correlate well with number of staff laid off. The data shows that the Retail industry has been affected the most, with 70,157 layoffs, followed by Consumer and Transportation sectors. The Global Layoff Map reveals notable layoffs in countries such as Canada and the United Kingdom.\
