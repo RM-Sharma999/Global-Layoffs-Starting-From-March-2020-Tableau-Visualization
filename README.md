@@ -17,9 +17,9 @@ As stated above, the dataset was obtained from **Kaggle** https://www.kaggle.com
 ![](https://i.imgur.com/OEYzKPw.png)
 
 # Data Cleaning Process
-The data was loaded into MYSQL and therefore converted into a database table, then i created a duplicate table to work upon and clean the data with the following steps below:
+The dataset was loaded into **MySQL** and converted into a database table. A duplicate working table was created to ensure the raw data remained unchanged. The data was then cleaned using the following steps:
 
-1. Found and removed any duplicate rows using temp tables.
+- Identified and removed duplicate records using temporary tables.
 
 2. Standardized the Data, checked for any spelling errors, converted the Date column to Standard formart. 
 
