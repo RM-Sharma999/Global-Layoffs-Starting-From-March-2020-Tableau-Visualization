@@ -20,14 +20,10 @@ As stated above, the dataset was obtained from **Kaggle** https://www.kaggle.com
 The dataset was loaded into **MySQL** and converted into a database table. A duplicate working table was created to ensure the raw data remained unchanged. The data was then cleaned using the following steps:
 
 - Identified and removed duplicate records using temporary tables.
-
-2. Standardized the Data, checked for any spelling errors, converted the Date column to Standard formart. 
-
-3. Changed the datatypes of two columns, replaced all blank values with Null Values in columns.
-
-4. Dealt with any NULL values, Blank Values or any other misleading values.
-
-5. Removed any unwanted row or columns.
+- Standardized data formats, corrected spelling inconsistencies, and converted the date column to a standard format.
+- Updated incorrect data types and replaced blank values with NULL.
+- Handled missing, null, and misleading values.
+- Removed irrelevant rows and columns.
 
 # Data Analysis AND Visualization
 I Utilized SQL to perform Exploratory Data Analysis on the Layoffs Data and used the insights gathered to create some visualizations using Tableau. There were many possible visualizations using the insights gathered, but i created the following Visualizations:
