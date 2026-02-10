@@ -7,12 +7,12 @@ This project showcases **end-to-end data cleaning, SQL-based analysis, and actio
 
 ### [GLOBAL LAYOFFS Interactive Dashboard](https://public.tableau.com/views/GlobalLayoffsStartingfromMarch2020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
---
+---
 
 # Background
 With recent layoffs across major tech companies and other industries, I became curious about the underlying causes and their broader impact. To better understand this trend, I performed exploratory data analysis on the **Global Layoffs** dataset from Kaggle. The analysis reveals that **tens of thousands of employees** have been laid off across **57 countries, 2,586 companies, and 31 industries from 2020 to 2024**, highlighting the global scale and severity of this issue.
 
---
+---
 
 # About the Dataset
 As stated above, the dataset was obtained from **Kaggle** https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022 and contains company-level layoff records across **57 countries** and **31 industries** from **2020 to 2024**. It consists of **12 columns** out of which only nine were useful for EDA. These columns are: **company**(name of the layoff company), **location**(location of the company headquarters), **industry**(industry of the company), **total laid_off**(number of employees laid off), **percentage laid_off**(percentage of employees laid off), **date**(date of layoff), **stage**(stage of company funding), **country**(the country where company resides), and **fund_raised**(fund raised by the company in Million $). 
@@ -20,7 +20,7 @@ As stated above, the dataset was obtained from **Kaggle** https://www.kaggle.com
 
 ![](https://i.imgur.com/OEYzKPw.png)
 
---
+---
 
 # Data Cleaning Process
 The dataset was loaded into **MySQL** and converted into a database table. A duplicate working table was created to ensure the raw data remained unchanged. The data was then cleaned using the following steps:
@@ -31,7 +31,7 @@ The dataset was loaded into **MySQL** and converted into a database table. A dup
 - Handled missing, null, and misleading values.
 - Removed irrelevant rows and columns.
 
---
+---
 
 # Data Analysis AND Visualization
 I utilized **SQL** to perform **exploratory data analysis (EDA)** on the layoffs dataset and leveraged the insights to create visualizations in **Tableau**. While there were many possible ways to visualize the data, the following key visualizations were created:
@@ -56,14 +56,14 @@ This pie chart Visualization shows the distribution of layoffs over five years. 
 
 ![](https://i.imgur.com/yMVKgWR.png)
 
---
+---
 
 # Recommendations
 Companies facing economic challenges should explore alternatives to large-scale layoffs. This includes improving **financial forecasting**, implementing **cost-saving measures** such as temporary pay adjustments, investing in **employee development**, and adopting **flexible staffing strategies**. Fostering a culture of **innovation** and **operational efficiency** can help organizations navigate downturns while retaining talent.
 
 For employees, staying **adaptable** and continuously **upskilling** increases versatility and reduces the risk of being affected by layoffs. Maintaining **open communication** with employers, participating in **collaborative problem-solving**, and engaging in team-building or social initiatives can further support workforce stability and mitigate the need for reductions.
 
---
+---
 
 # Conclusion
 Since March 2020, global layoffs have had a significant impact, totaling **599,442 employees**. Major companies such as **Netflix, Meta, and Uber** raised substantial funding, which does not appear to correlate with the number of staff laid off. The **Retail industry** was the most affected, with **70,157 layoffs**, followed by the **Consumer** and **Transportation** sectors. The **Global Layoff Map** highlights notable layoffs in countries including **Canada** and the **United Kingdom**.  
